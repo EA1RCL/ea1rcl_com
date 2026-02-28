@@ -1,12 +1,12 @@
-# Objetivos del Club
+# Club objectives
 
 En esta pagina puedes detallar los objetivos del Radio Club Lugones.
 
-## Objetivo general
+## General objective
 
 Promover la radioaficion, la formacion tecnica y la colaboracion entre socios.
 
-## Objetivos especificos
+## Specific objectives
 
 - Organizar activaciones y eventos de radio.
 - Difundir buenas practicas operativas y tecnicas.

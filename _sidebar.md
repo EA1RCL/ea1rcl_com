@@ -4,10 +4,10 @@
   * [Activations](activaciones.md)
 
 * **The Club**
-  * [Quienes somos](el-club.md)
-  * [Objetivos](objetivos-del-club.md)
-  * [Contacto](contacto.md)
-  * [Como asociarse](como-asociarse.md)
+  * [Who we are](el-club.md)
+  * [Objectives](objetivos-del-club.md)
+  * [Contact](contacto.md)
+  * [How to associate](como-asociarse.md)
 
 * **News**
   * [News Home](/ultimas-noticias.md)

@@ -1,25 +1,25 @@
-# Contacto
+# Contact
 
-## Dirección postal  
+## Postal address
 
     P.O. Box 160
     Zip Code 33420  
     Lugones, Siero, Principado de Asturias  
     SPAIN
 
-## Envianos un correo
+## Get in touch by email
 
 ```
 contacto @ radioclublugones . es
 ```
 
-## Horario y lugar de reunión
+## Meeting time & place
 
-### Horarios
+### Time
 
-    Lunes y jueves no festivos de 18:30 a 21:30 horas
+    Mondays and Thursdays, non-holidays, from 18:30 to 21:30 h local. 
 
-### Ubicación
+### Location
 
     Hotel de asociaciones / Centro de estudios  
     Cl. Leopoldo Alas Clarin, 1  
